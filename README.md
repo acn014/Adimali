@@ -1,4 +1,4 @@
 # Adimali
 
 Chamika First Check
-Chamika Secon Check
+Chamika Second Check
